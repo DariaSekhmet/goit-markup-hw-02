@@ -73,8 +73,8 @@ a:active {
     color: white;
     font-size: 56px;
     font-weight: 700;
-    line-height: 60px;
     letter-spacing: 1.12px;
+    line-height: 1.07;
 }
 
 .order-button {
@@ -96,8 +96,8 @@ background-color: #404BBF;
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.07;
     letter-spacing: 0.40px;
+    line-height: 1.2;
 }
 
 .benef-text {
