@@ -23,7 +23,7 @@ a:active {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    line-height: 21px;
+    line-height: 1.17;
     letter-spacing: 0.54px;
 }
 
@@ -45,6 +45,10 @@ a:active {
 
 .nav-link:active {
     color: #404BBF;
+}
+
+.connect {
+    font-style: normal;
 }
 
 .connect-to {
@@ -92,7 +96,7 @@ background-color: #404BBF;
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.07;
     letter-spacing: 0.40px;
 }
 
@@ -112,8 +116,9 @@ background-color: #404BBF;
     font-size: 36px;
     font-weight: 700;
     text-transform: capitalize;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.72px;
+    text-align: center;
 }
 
 .team-menu-item {
@@ -136,13 +141,13 @@ background-color: #404BBF;
 }
 
 .portf-title {
-    text-align: center;
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
     text-transform: capitalize;
-    line-height: 40px;
+    line-height: 1.11;
     letter-spacing: 0.72px;
+    text-align: center;
 }
 
 .portf-menu-title {
@@ -166,6 +171,7 @@ background-color: #404BBF;
 
 .white-logo {
     color: #F4F4FD;
+    line-height: 1.17;
 }
 
 .down-text {
